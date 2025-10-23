@@ -18,9 +18,10 @@ body {
 }
 
 #task-input {
-    width: 100%;
+    width: calc(100% - 20px);
     padding: 10px;
     margin-bottom: 10px;
+    margin-right: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
